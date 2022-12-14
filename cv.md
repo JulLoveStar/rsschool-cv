@@ -7,7 +7,7 @@
 
 phone: +7 (906) 309-69-04
 
-
+e-mail: Jul.love.star@gmail.com
 
 
 ### Briefly About Myself:
@@ -24,7 +24,7 @@ I am junior front-end developer. Today I have learnd several delopment methods l
 
 ### Code examples
 
-You can find examples of my work on my github profile. You're welcome - [Link for github]()
+You can find examples of my work on my github profile. You're welcome - [Link for github](https://github.com/JulLoveStar/rsschool-cv/blob/gh-pages/cv.md)
 
 
 ### Expirience 
