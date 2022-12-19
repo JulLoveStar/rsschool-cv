@@ -1,12 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    My CV
-</body>
-</html>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap');
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background: url(https://phonoteka.org/uploads/posts/2022-02/thumbs/1643987287_3-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-4.jpg);
+    padding: 50px 0;
+}
+
+.cv {
+    width: 800px; 
+    min-height: 800px;
+    border: 10px solid white;
+    margin: 0 auto;
+    background: white;
+}
+
+.header {
+    display: flex;
+    height: 200px;
+}
+
+.title-block{
+    position: relative;
+    display: flex;
+    text-align: left;
+    vertical-align: top;
+    align-items: justify;
+    width: 70%;
+    height: 100%;
+    border: 2px solid red;
+}
+
+.userpic {
+    position: relative;
+    display: flex;
+    width: 30%;
+    height: 100%;
+    border: 2px solid red;
+}
+
+.info{
+    display: flex;
+}
+
+.footer{
+    display: flex;
+}
