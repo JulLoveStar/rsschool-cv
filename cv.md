@@ -12,7 +12,7 @@ e-mail: Jul.love.star@gmail.com
 
 ### Briefly About Myself:
 
-I am junior front-end developer. Today I have learnd several delopment methods like HTML, CSS, JS, also I am learning React. I made several projects using these thecnologies. I really interested in learn IT sphere and i want to continuie develop my skill in this way.
+I am a junior front-end developer. Today I have learnd several delopment methods like HTML, CSS, JS, also I am learning React. I made several projects using these thecnologies. I really interested in learn IT sphere and i want to continuie develop my skill in this way.
 
 ### Key skills
 
